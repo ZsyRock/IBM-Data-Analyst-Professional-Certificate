@@ -1,7 +1,5 @@
-# EHR_SQL_Learning
+# Senior_Data_Analytics_Learning
 
-(Copyright Notice) The dataset is released along with the paper by Lee et al. (2022) titled 'EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records' (NeurIPS 2022 Datasets and Benchmarks). For further details, please refer to [this link](https://arxiv.org/abs/2301.07695).
+30th Jan 2024, I decided to improve myself through [Coursera](https://www.coursera.org/user/1e6ed734d0da29792d5d11b1c92b623c) because I realized the bottleneck of career development.
 
-Lee, G., Hwang, H., Bae, S., Kwon, Y., Shin, W., Yang, S., ... & Choi, E. (2022). EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records. Advances in Neural Information Processing Systems, 35, 15589-15601.
-
-[GitHub Project Through Train](https://github.com/ZsyRock/EHR_SQL)
+Meanwhile, I began to have the thought of continuing to purchase a PhD in Data Science related field. So I need to do something as proof of my determination, not only for my future mentors, and also for myself, whether I am the candidate with sufficient motivation and strength.
