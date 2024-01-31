@@ -1,4 +1,5 @@
-Summary and Highlights
+# Summary and Highlights
+
 In this lesson, you have learned the following information: 
 
 A data analyst ecosystem includes the infrastructure, software, tools, frameworks, and processes used to gather, clean, analyze, mine, and visualize data.  
