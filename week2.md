@@ -6,11 +6,11 @@ A data analyst ecosystem includes the infrastructure, software, tools, framework
 
 Based on how well-defined the structure of the data is, data can be categorized as:
 
-Structured Data, that is data which is well organized in formats that can be stored in databases.
+- Structured Data, that is data which is well organized in formats that can be stored in databases.
 
-Semi-Structured Data, that is data which is partially organized and partially free form.
+- Semi-Structured Data, that is data which is partially organized and partially free form.
 
-Unstructured Data, that is data which can not be organized conventionally into rows and columns.
+- Unstructured Data, that is data which can not be organized conventionally into rows and columns.
 
 Data comes in a wide-ranging variety of file formats, such as delimited text files, spreadsheets, XML, PDF, and JSON, each with its own list of benefits and limitations of use.  
 
