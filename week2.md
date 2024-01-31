@@ -43,11 +43,10 @@ Data professionals need a host of languages that can help them extract, prepare,
 14.add-content file name + "content" adds content to the file, which is an append form.
 15.set-content file name + "content" adds content to the file as a replacement form
 16.clear-content file name clears file content
-
-# Understanding Data Reponsitiries and Big Data Platforms
 17.get-service (gsv) Gets the service running in the local system
 18.get-progress (gps/ps) gets the current process
 19.convertto-html>"File name.html" converts the object into a web page file
 20.export-csv "process.csv" exports the process csv file
 Note: Open in Python's virtual isolation environment. You need to add the .ps1 suffix after activate.
-注：python的虚拟隔离环境中打开。需在activate后加.ps1后缀。
+
+# Understanding Data Reponsitiries and Big Data Platforms
