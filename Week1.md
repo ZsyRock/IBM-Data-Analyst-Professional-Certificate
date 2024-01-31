@@ -1,3 +1,4 @@
+# Section 1
 ### Summary and Highlights
 
 In this lesson, you have learned the following information: 
@@ -17,6 +18,19 @@ Setting a clear metric for evaluating outcomes.
 Gathering, cleaning, analyzing, and mining data to interpret results. 
 Communicating the findings in ways that impact decision-making. 
 
+# Section2
+### Summary and Highlights
+- In this lesson, you have learned the following information: 
+- The role of a Data Analyst spans across:
+- Acquiring data that best serves the use case.
+- Preparing and analyzing data to understand what it represents.
+- Interpreting and effectively communicating the message to stakeholders who need to act on the findings.
+- Ensuring that the process is documented for future reference and repeatability.  
+In order to play this role successfully, Data Analysts need a mix of technical, functional, and soft skills.  
+- Technical Skills include varying levels of proficiency in using spreadsheets, statistical tools, visualization tools, programming and querying languages, and the ability to work with different types of data repositories and big data platforms.
+- An understanding of Statistics, Analytical techniques, problem-solving, the ability to probe a situation from multiple perspectives, data visualization, and project management skills – all of which come under Functional Skills a Data Analyst needs in order to play an effective role.
+- Soft Skills include the ability to work collaboratively, communicate effectively, tell a compelling story with data, and garner support and buy-in from stakeholders. Curiosity to explore different pathways and intuition that helps to give a sense of the future based on past experiences are also essential skills for being a good Data Analyst.
+ 
 ### Responsibilities of a Data Analyst
 - Technical Skills: Let’s first look at some of the technical skills that you need in your role as a Data Analyst. These include: Expertise in using spreadsheets such as Microsoft Excel or Google Sheets, Proficiency in statistical analysis and visualization tools and software such as IBM Cognos, IBM SPSS, Oracle Visual Analyzer, Microsoft Power BI, SAS, and Tableau Proficiency in at least one of the programming languages such as R, Python, and in some cases C++, Java, and MATLAB, Good knowledge of SQL, and ability to work with data in relational and NoSQL databases, The ability to access and extract data from data repositories such as data marts, data warehouses, data lakes, and data pipelines, Familiarity with Big Data processing tools such as Hadoop, Hive, and Spark. We will understand more about the features and use cases of some of these programming languages, databases, data repositories, and big data processing tools further along in the course. Now we’ll look at some of the functional skills that you require for the role of Data Analyst. These include: Proficiency in Statistics to help you analyze your data, validate your analysis, and identify fallacies and logical errors. Analytical skills that help you research and interpret data, theorize, and make forecasts. Problem-solving skills, because ultimately, the end-goal of all data analysis is to solve problems. Probing skills that are essential for the discovery process, that is, for understanding a problem from the perspective of varied stakeholders and users—because the data analysis process really begins with a clear articulation of the problem statement and desired outcome. Data Visualization skills that help you decide on the techniques and tools that present your findings effectively based on your audience, type of data, context, and end-goal of your analysis.
 - Soft Skills: Project Management skills to manage the process, people, dependencies, and timelines of the initiative. That brings us to your soft skills as a Data Analyst. Data Analysis is both a science and an art. You can ace the technical and functional expertise, but one of the key differentiators for your success is going to be soft skills. This includes your ability to work collaboratively with business and cross-functional teams; communicate effectively to report and present your findings; tell a compelling and convincing story; and gather support and buy-in for your work. Above all, being curious, is at the heart of data analysis. In the course of your work, you will stumble upon patterns, phenomena, and anomalies that may show you a different path. The ability to allow new questions to surface and challenge your assumptions and hypotheses makes for a great analyst. You will also hear data analysis practitioners talk about intuition as a must-have quality. It’s essential to note that intuition, in this context, is the ability to have a sense of the future based on pattern recognition and past experiences.
