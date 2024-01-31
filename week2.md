@@ -1,4 +1,5 @@
-# Summary and Highlights
+# The Data Ecosystem and Languages for Data Professionals
+### Summary and Highlights
 
 In this lesson, you have learned the following information: 
 
@@ -42,6 +43,8 @@ Data professionals need a host of languages that can help them extract, prepare,
 14.add-content file name + "content" adds content to the file, which is an append form.
 15.set-content file name + "content" adds content to the file as a replacement form
 16.clear-content file name clears file content
+
+# Understanding Data Reponsitiries and Big Data Platforms
 17.get-service (gsv) Gets the service running in the local system
 18.get-progress (gps/ps) gets the current process
 19.convertto-html>"File name.html" converts the object into a web page file
