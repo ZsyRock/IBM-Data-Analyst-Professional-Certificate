@@ -25,3 +25,26 @@ Data professionals need a host of languages that can help them extract, prepare,
 - Programming languages such as Python, R, and Java, for developing applications and controlling application behavior.
 
 - Shell and Scripting languages, such as Unix/Linux Shell, and PowerShell, for automating repetitive operational tasks.
+
+1.get-command (gcm) gets all commands
+2.get-help + command to get command help
+3.clear-host (cls) clears the screen
+4.get-location (gl /pwd) gets the current location
+5.set-location Set the path cd..Enter the upper-level directory cd+directory Enter the subdirectory
+6.get-childitem (ls /dir) gets all child items
+7.get-item+filename displays file information
+8.new-item+filename new file
+9.mkdir (md) + directory name create new directory
+10.move-item (mi) + file name (to be moved) + directory name/
+11.copy-item + file name + directory Copy the file to the directory
+12.rename-item + original file name + file name to be changed to change the name
+13.remove-item directory/file name (rm directory/file name) deletes files in the directory
+14.add-content file name + "content" adds content to the file, which is an append form.
+15.set-content file name + "content" adds content to the file as a replacement form
+16.clear-content file name clears file content
+17.get-service (gsv) Gets the service running in the local system
+18.get-progress (gps/ps) gets the current process
+19.convertto-html>"File name.html" converts the object into a web page file
+20.export-csv "process.csv" exports the process csv file
+Note: Open in Python's virtual isolation environment. You need to add the .ps1 suffix after activate.
+注：python的虚拟隔离环境中打开。需在activate后加.ps1后缀。
