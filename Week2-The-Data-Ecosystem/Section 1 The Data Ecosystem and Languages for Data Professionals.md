@@ -75,32 +75,6 @@ Note: Open in Python's virtual isolation environment. You need to add the .ps1 s
 
 - ACID-compliance: ACID stands for Atomicity, Consistency, Isolation, and Durability. And ACID compliance implies that the data in the database remains accurate and consistent despite failures, and database transactions are processed reliably. Now we’ll look at some use cases for relational databases: Online Transaction Processing: OLTP applications are focused on transaction-oriented tasks that run at high rates. Relational databases are well suited for OLTP applications because they can accommodate a large number of users; they support the ability to insert, update, or delete small amounts of data; and they also support frequent queries and updates as well as fast response times. Data warehouses: In a data warehousing environment, relational databases can be optimized for online analytical processing (or OLAP), where historical data is analyzed for business intelligence. IoT solutions: Internet of Things (IoT) solutions require speed as well as the ability to collect and process data from edge devices, which need a lightweight database solution. This brings us to the limitations of RDBMS: RDBMS does not work well with semi-structured and unstructured data and is, therefore, not suitable for extensive analytics on such data. For migration between two RDBMSs, schemas and type of data need to be identical between the source and destination tables. Relational databases have a limit on the length of data fields, which means if you try to enter more information into a field than it can accommodate, the information will not be stored. Despite the limitations and the evolution of data in these times of big data, cloud computing, IoT devices, and social media, RDBMS continues to be the predominant technology for working with structured data.
 
-# Summary and Highlights
-
-In this lesson, you have learned the following information: 
-
-A Data Repository is a general term that refers to data that has been collected, organized, and isolated so that it can be used for reporting, analytics, and also for archival purposes.  
-
-The different types of Data Repositories include: 
-
-- Databases, which can be relational or non-relational, each following a set of organizational principles, the types of data they can store, and the tools that can be used to query, organize, and retrieve data.
-
-- Data Warehouses, that consolidate incoming data into one comprehensive storehouse.  
-
-- Data Marts, that are essentially sub-sections of a data warehouse, built to isolate data for a particular business function or use case. 
-
-- Data Lakes, that serve as storage repositories for large amounts of structured, semi-structured, and unstructured data in their native format. 
-
-- Big Data Stores, that provide distributed computational and storage infrastructure to store, scale, and process very large data sets.
-
-ETL, or Extract Transform and Load, Process is an automated process that converts raw data into analysis-ready data by:
-
-- Extracting data from source locations.
-
-- Transforming raw data by cleaning, enriching, standardizing, and validating it.
-
-- Loading the processed data into a destination system or data repository.
-
 Data Pipeline, sometimes used interchangeably with ETL, encompasses the entire journey of moving data from the source to a destination data lake or application, using the ETL process.  
 
 Big Data refers to the vast amounts of data that is being produced each moment of every day, by people, tools, and machines. The sheer velocity, volume, and variety of data challenge the tools and systems used for conventional data. These challenges led to the emergence of processing tools and platforms designed specifically for Big Data, such as Apache Hadoop, Apache Hive, and Apache Spark.
