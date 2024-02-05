@@ -1,4 +1,4 @@
-Summary and Highlights
+### Summary and Highlights
 In this lesson, you have learned: 
 
 - The process of identifying data begins by determining the information that needs to be collected, which in turn is determined by the goal you seek to achieve. 
