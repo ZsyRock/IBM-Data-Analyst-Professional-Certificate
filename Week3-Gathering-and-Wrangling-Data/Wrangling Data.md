@@ -1,4 +1,4 @@
-Summary and Highlights
+### Summary and Highlights
 In this lesson, you have learned the following information: 
 
 Once the data you identified is gathered and imported, your next step is to make it analysis-ready. This is where the process of Data Wrangling, or Data Munging, comes in. Data Wrangling is an iterative process that involves data exploration, transformation, and validation.  
