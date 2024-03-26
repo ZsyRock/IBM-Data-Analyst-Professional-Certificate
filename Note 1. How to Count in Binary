@@ -1,0 +1,3 @@
+The 2 and 8 are on and if we add them up we get 10. Let's look at our ASCII binary table again, the letter h in binary is 01101000. 
+Now let's look at an ASCII to decimal table. The letter h and decimal is 104. Now let's try our conversion chart again, 64+32+8=104. 
+Look at that, the math checks out. Now we're cooking, wow, we've gone over all the essentials of the basic building blocks of computing and machine language.
