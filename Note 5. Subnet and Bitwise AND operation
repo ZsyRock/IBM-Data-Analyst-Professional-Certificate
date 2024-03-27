@@ -1,0 +1,23 @@
+
+When a router performs the bitwise AND operation between the destination address and its own IP address, using the subnet mask, it is essentially using the subnet mask to determine the network portion and host portion of the IP addresses involved.
+
+Here's how it's done:
+
+Obtain the destination address, the router's IP address, and the subnet mask.
+Perform a bitwise AND operation between the destination address and the router's IP address, using the subnet mask.
+The result will be a binary number where the network portion matches the router's IP address, while the host portion differs from the router's IP address.
+For example, if the router's IP address is 192.168.1.1 with a subnet mask of 255.255.255.0, and the destination address is 192.168.1.100, the process would be as follows:
+
+Router IP address: 192.168.1.1 -> 11000000.10101000.00000001.00000001
+Subnet mask: 255.255.255.0 -> 11111111.11111111.11111111.00000000
+Destination address: 192.168.1.100 -> 11000000.10101000.00000001.01100100
+
+The result of the bitwise AND operation is:
+11000000.10101000.00000001.00000001
+&
+11111111.11111111.11111111.00000000
+11000000.10101000.00000001.00000000
+
+The result is 192.168.1.0, which matches the network address of the router, indicating that the destination address is a host within the local network.
+
+The router uses this result to determine whether the data packet should be sent directly to the destination host (if it's on the local network) or forwarded to another router (if the destination is on a different network).
