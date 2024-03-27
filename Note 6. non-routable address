@@ -1,0 +1,19 @@
+Now a brief history lesson. Even as far back as 1996, it was obvious that the Internet was growing at a rate that couldn't be sustained. 
+When IP was first defined, it defined an IP address as a single 32-bit number. A single 32-bit number can represent 4,294,967,295 unique numbers, 
+which definitely sounds like a lot. But as of 2017, there are an estimated 7.5 billion humans on Earth. 
+This means that the IPv4 standard doesn't even have enough IP addresses available for every person on the planet. 
+It also can't account for entire data centers filled with thousands and thousands of computers required for large-scale technology companies to operate. 
+So in 1996, RFC 1918 was published. RFC stands for request for comments and is a longstanding way for those responsible for 
+keeping the Internet running to agree upon the standard requirements to do so. RFC 1918 outlined a number of networks that would be 
+defined as non-routable address space. Non-routable address space is basically exactly what it sounds like. They are ranges of IPs 
+set aside for use by anyone that cannot be routed to. Not every computer connected to the Internet needs to be able to communicate 
+with every other computer connected to the Internet. Non-routable address space allows for nodes on such a network to communicate 
+with each other, but no gateway router will attempt to forward traffic to this type of network. This might sound super limiting, 
+and in some ways it is. In a future module, we'll cover a technology known as NAT or network address translation. It allows for 
+computers on non-routable address space to communicate with other devices on the Internet. But for now, let's just discuss 
+non-routable address space in a vacuum. RFC 1918 defined three ranges of IP addresses that will never be routed anywhere by core routers. 
+That means that they belong to no one and that anyone can use them. In fact, since they're separated from the way traffic moves across the Internet, 
+there's no limiting to how many people might use these addresses for their internal networks. The primary three ranges of non-routable address space are 
+10.0.0.0/8, 172.16.0.0/12, and 192.168.0.0/16. These ranges are free for anyone to use for their internal networks. 
+It should be called out that interior gateway protocols will route these address spaces so they're are appropriate for use within an autonomous system, 
+but exterior gateway protocols will not. We've covered a lot in this module and congratulations to you for sticking with it.
